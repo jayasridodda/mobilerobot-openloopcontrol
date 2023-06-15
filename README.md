@@ -90,6 +90,7 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
+![Screenshot (74)](https://github.com/jayasridodda/mobilerobot-openloopcontrol/assets/123259278/5a68a307-7cad-4e05-a975-1c8139b37b05)
 
 
 
@@ -100,9 +101,6 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Video:
 
-Upload your video in Youtube and paste your video-id here
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 <br/>
 <br/>
