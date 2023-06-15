@@ -89,10 +89,12 @@ if _name_ == '_main_':
 ## MobileRobot Movement Image:
 
 ![robo](./img/robomaster.png)
-Initial position:
+### Initial position:
+
 ![intittttt](https://github.com/jayasridodda/mobilerobot-openloopcontrol/assets/123259278/c12cd20f-1880-4627-82bc-95d35ae39da7)
-Final Position:
-![Uploading Screenshot (75).png…]()
+### Final Position:
+![Screenshot (75)](https://github.com/jayasridodda/mobilerobot-openloopcontrol/assets/123259278/57d3492b-31ad-4c93-b650-b13e27748d77)
+
 
 
 
@@ -102,7 +104,7 @@ Final Position:
 <br/>
 
 ## MobileRobot Movement Video:
-
+https://youtu.be/nZMAdS07Pls
 
 <br/>
 <br/>
